@@ -1,0 +1,2 @@
+# SWIPs
+Swapy Improvement Proposals
