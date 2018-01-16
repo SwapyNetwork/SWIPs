@@ -1,18 +1,16 @@
-Please, write your proposal accordingly to this template.
+Please, write your issue accordingly to this template.
 
 ## Preamble
 
-    SWIP: 001
-    Title: SWIP-001
-    Author: Tulio <tulio@swapy.network>
-    Type: Standard
-    Category: SWIP
-    Status: Draft
-    Created: 2018-01-16
+    Title: add here an short title to your issue
+    Author: your name <your email>
+    Type: <Standard | Informational | Meta>
+    (only for Standard) Category: <Protocol | D'App | SWRC>
+    Created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
 
 ## Simple Summary
 
-Explain your proposal using clear language with at most five sentences.
+Explain your issue using clear language with at most three sentences.
 
 ## Motivation
 
@@ -20,15 +18,15 @@ State your motivation to start this issue and provide at least one practical usa
 
 ## Specification
 
-Describe in details your request. If you are proposing a different implementation for an already existing feature, please explain why. It may be for security, execution efficiency, cost (gas), or even a better design. In this case, it is recommended to  provide evidence and test cases that support your proposal. If you are proposing a new feature, try to provide reasonable details. Use case diagrams and/or proof of concepts are acceptable.
-
-### Methods
-
-Specify the methods you are proposing, if any.
+Describe in details your request. If you are requesting a different implementation for an already existing feature, please explain why. It may be for security, execution efficiency, cost (gas), or even a better design. In this case, it is recommended to  provide evidence and test cases that support your issue. If you are requesting a new feature, try to provide reasonable details. Use case diagrams and/or proof of concepts are acceptable.
 
 ## Implementation
 
 If there is any implementation or draft already coded, please link it here.
+
+### Methods
+
+Specify the methods you are proposing, if any.
 
 ## License
 Apache 2.0 License
